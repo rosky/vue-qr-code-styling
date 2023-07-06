@@ -1,13 +1,28 @@
 {
   "name": "vue-qr-code-styling",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "",
   "main": "vue-qr-code-styling.common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "qr",
+    "qrcode",
+    "qr-code",
+    "js",
+    "qrjs",
+    "qrstyling",
+    "styling",
+    "qrbranding",
+    "branding",
+    "qrimage",
+    "image",
+    "qrlogo",
+    "logo",
+    "design"
+  ],
+  "author": "Rosky <rosky.h@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
